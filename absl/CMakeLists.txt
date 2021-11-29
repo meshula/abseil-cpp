@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-#add_subdirectory(base)
+add_subdirectory(base)
 #add_subdirectory(algorithm)
 #add_subdirectory(cleanup)
 #add_subdirectory(container)
@@ -23,7 +23,7 @@
 #add_subdirectory(functional)
 #add_subdirectory(hash)
 #add_subdirectory(memory)
-#add_subdirectory(meta)
+add_subdirectory(meta)
 add_subdirectory(numeric)
 #add_subdirectory(profiling)
 #add_subdirectory(random)
