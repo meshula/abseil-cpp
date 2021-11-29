@@ -15,14 +15,14 @@
 #
 
 add_subdirectory(base)
-#add_subdirectory(algorithm)
+add_subdirectory(algorithm)
 #add_subdirectory(cleanup)
 #add_subdirectory(container)
 #add_subdirectory(debugging)
 #add_subdirectory(flags)
 #add_subdirectory(functional)
 #add_subdirectory(hash)
-#add_subdirectory(memory)
+add_subdirectory(memory)
 add_subdirectory(meta)
 add_subdirectory(numeric)
 #add_subdirectory(profiling)
