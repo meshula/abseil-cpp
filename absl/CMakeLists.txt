@@ -32,7 +32,7 @@ add_subdirectory(strings)
 #add_subdirectory(synchronization)
 #add_subdirectory(time)
 add_subdirectory(types)
-#add_subdirectory(utility)
+add_subdirectory(utility)
 
 if (${ABSL_BUILD_DLL})
   absl_make_dll()
